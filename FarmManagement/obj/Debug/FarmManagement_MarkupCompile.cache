@@ -1,0 +1,20 @@
+﻿FarmManagement
+
+
+winexe
+C#
+.cs
+D:\My-CV\Geralt's Farm\WPF-FarmManagement\FarmManagement\obj\Debug\
+FarmManagement
+none
+false
+DEBUG;TRACE
+D:\My-CV\Geralt's Farm\WPF-FarmManagement\FarmManagement\App.xaml
+13-640924322
+41936686998
+32576138978
+2067820624
+Customer\AddCustomerWindow.xaml;Category\AddCategoryWindow.xaml;Customer\CustomerControl.xaml;Customer\EditCustomerWindow.xaml;Invoice\InvoiceControl.xaml;Invoice\AddInvoiceWindow.xaml;Invoice\InvoiceDetailWindow.xaml;Product\AddProductWindow.xaml;Category\CategoryControl.xaml;Category\EditCategoryWindow.xaml;Product\EditProductWindow.xaml;MainWindow.xaml;Product\ProductControl.xaml;
+
+False
+

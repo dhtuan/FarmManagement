@@ -1,0 +1,1 @@
+$DTE.ItemOperations.Navigate("https://ghost1372.github.io/handycontrol/quick_start/")
